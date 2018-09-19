@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Listerr</string>
+    <string name="top_movies">TOP RATED(IMDb)</string>
+    <string name="browse_movie">BROWSE FOR MOVIES</string>
+    <string name="app_label">Listerr</string>
+    <string name="search_hint">ENTER THE MOVIE</string>
+    <string name="search">search</string>
+    <string name="search_title">search</string>
+</resources>
